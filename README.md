@@ -9,10 +9,14 @@ The sample is based on [martinmoec/fable-react-native-how-to](https://github.com
 - Node.js
 - .NET Core >= 3.0
 - yarn
+- Expo
 
 ## Setup
 
-...
+- `dotnet tool restore`
+- `dotnet paket install`
+- `yarn install`
+- `yarn dev`
 
 ## Binding magic in `App.fs`
 
