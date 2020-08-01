@@ -1,4 +1,4 @@
-# Minimum Expo project with F# and Fable
+# Minimum Expo app with F# and Fable
 
 This is minimum setup of [Expo](https://expo.io) with F# and Fable (with Elmish). This lets you use Expo platform and SDK in conjunction with F#!
 
